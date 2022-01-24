@@ -1,0 +1,13 @@
+html{
+    background-color: grey;
+}
+
+.text-special {
+    font-size: 40px;
+    color: aquamarine;
+}
+
+#text-special-bold {
+    font-size: 55px;
+    color: rgb(35, 216, 35);
+}
